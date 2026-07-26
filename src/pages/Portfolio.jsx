@@ -119,7 +119,7 @@ function Portfolio() {
       {/* NAVIGATION */}
       <nav className="sticky top-0 z-50 bg-white/80 dark:bg-[#050505]/80 backdrop-blur-md border-b border-gray-200 dark:border-white/5 transition-colors duration-300">
         <div className="flex justify-between items-center px-6 py-4 max-w-7xl mx-auto">
-          <div className="font-bold text-xl italic text-gray-900 dark:text-white transition-colors duration-300">MyPortfolio.</div>
+          <div className="font-bold text-xl italic text-gray-900 dark:text-white transition-colors duration-300">Benedict A.</div>
           
           <div className="flex items-center gap-6">
             <div className="hidden md:flex gap-6 text-sm font-medium text-gray-600 dark:text-gray-400">
